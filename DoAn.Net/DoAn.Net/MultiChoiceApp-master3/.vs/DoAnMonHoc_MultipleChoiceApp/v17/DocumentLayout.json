@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|c:\\users\\administrator\\desktop\\khang\\khang\\multichoiceapp-master3\\doanmonhoc_multiplechoiceapp\\forms\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\forms\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|c:\\users\\administrator\\desktop\\khang\\khang\\multichoiceapp-master3\\doanmonhoc_multiplechoiceapp\\forms\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\forms\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|c:\\users\\administrator\\desktop\\khang\\khang\\multichoiceapp-master3\\doanmonhoc_multiplechoiceapp\\forms\\frmbaithi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\forms\\frmbaithi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|c:\\users\\administrator\\desktop\\khang\\khang\\multichoiceapp-master3\\doanmonhoc_multiplechoiceapp\\forms\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\forms\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\doanmonhoc_multiplechoiceapp\\forms\\frminbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\forms\\frminbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|c:\\users\\administrator\\desktop\\khang\\khang\\multichoiceapp-master3\\doanmonhoc_multiplechoiceapp\\forms\\frmlambaithi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\forms\\frmlambaithi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|c:\\users\\administrator\\desktop\\khang\\khang\\multichoiceapp-master3\\doanmonhoc_multiplechoiceapp\\forms\\frmtaodethi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\forms\\frmtaodethi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|c:\\users\\administrator\\desktop\\khang\\khang\\multichoiceapp-master3\\doanmonhoc_multiplechoiceapp\\forms\\frmthongtinnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\forms\\frmthongtinnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|c:\\users\\administrator\\desktop\\khang\\khang\\multichoiceapp-master3\\doanmonhoc_multiplechoiceapp\\forms\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\forms\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|c:\\users\\administrator\\desktop\\khang\\khang\\multichoiceapp-master3\\doanmonhoc_multiplechoiceapp\\forms\\frmxemketquathi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\forms\\frmxemketquathi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\doanmonhoc_multiplechoiceapp\\forms\\frmbaocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\forms\\frmbaocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|c:\\users\\administrator\\desktop\\khang\\khang\\multichoiceapp-master3\\doanmonhoc_multiplechoiceapp\\forms\\frmquanlychung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\forms\\frmquanlychung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|c:\\users\\administrator\\desktop\\khang\\khang\\multichoiceapp-master3\\doanmonhoc_multiplechoiceapp\\forms\\frmbaocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\forms\\frmbaocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|c:\\users\\administrator\\desktop\\khang\\khang\\multichoiceapp-master3\\doanmonhoc_multiplechoiceapp\\rptbangdiem.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\rptbangdiem.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|c:\\users\\administrator\\desktop\\khang\\khang\\multichoiceapp-master3\\doanmonhoc_multiplechoiceapp\\rptbangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\rptbangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|c:\\users\\administrator\\desktop\\khang\\khang\\multichoiceapp-master3\\doanmonhoc_multiplechoiceapp\\dsbangdiem.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{228C4764-6523-4AFB-92B7-4B7F7EF9C664}|DoAnMonHoc_MultipleChoiceApp\\DoAnMonHoc_MultipleChoiceApp.csproj|solutionrelative:doanmonhoc_multiplechoiceapp\\dsbangdiem.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBaiThi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmBaiThi.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmBaiThi.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmBaiThi.cs [Design]",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmBaiThi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:36:51.641Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmlambaithi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmlambaithi.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmlambaithi.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmlambaithi.cs [Design]*",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmlambaithi.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:36:48.757Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmTaoDeThi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\FrmTaoDeThi.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\Forms\\FrmTaoDeThi.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\FrmTaoDeThi.cs [Design]*",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\Forms\\FrmTaoDeThi.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:36:28.955Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmThongTinNguoiDung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmThongTinNguoiDung.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmThongTinNguoiDung.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmThongTinNguoiDung.cs [Design]",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmThongTinNguoiDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:36:22.86Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDoiMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmDoiMatKhau.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmDoiMatKhau.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmDoiMatKhau.cs [Design]",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmDoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:36:20.72Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmTrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmTrangChu.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmTrangChu.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmTrangChu.cs [Design]",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmTrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:36:17.102Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\Forms\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\DangNhap.cs [Design]",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\Forms\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:35:54.959Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\DangKy.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\Forms\\DangKy.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\DangKy.cs [Design]",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\Forms\\DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:36:11.88Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmXemKetQuaThi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmXemKetQuaThi.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmXemKetQuaThi.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmXemKetQuaThi.cs [Design]*",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmXemKetQuaThi.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:36:25.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmInBaoCao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmInBaoCao.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmInBaoCao.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmInBaoCao.cs [Design]",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmInBaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:35:45.592Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmQuanLyChung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmQuanLyChung.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmQuanLyChung.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmQuanLyChung.cs [Design]",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmQuanLyChung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:36:14.129Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmBaoCaoThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmBaoCaoThongKe.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmBaoCaoThongKe.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmBaoCaoThongKe.cs*",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmBaoCaoThongKe.cs*",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAIwL4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:35:45.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmBaoCaoThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmBaoCaoThongKe.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmBaoCaoThongKe.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\Forms\\frmBaoCaoThongKe.cs [Design]*",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\Forms\\frmBaoCaoThongKe.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:35:47.574Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DSBangDiem.xsd",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\DSBangDiem.xsd",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\DSBangDiem.xsd",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\DSBangDiem.xsd",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\DSBangDiem.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-08-21T15:35:47.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "rptBangDiem.rpt",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\rptBangDiem.rpt",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\rptBangDiem.rpt",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\rptBangDiem.rpt",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\rptBangDiem.rpt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-21T15:35:45.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "rptBangDiem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\rptBangDiem.cs",
+              "RelativeDocumentMoniker": "DoAnMonHoc_MultipleChoiceApp\\rptBangDiem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\khang\\khang\\MultiChoiceApp-master3\\DoAnMonHoc_MultipleChoiceApp\\rptBangDiem.cs",
+              "RelativeToolTip": "DoAnMonHoc_MultipleChoiceApp\\rptBangDiem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAABIwAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:35:45.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
